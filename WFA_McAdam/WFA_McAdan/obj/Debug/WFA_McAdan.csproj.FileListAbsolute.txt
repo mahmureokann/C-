@@ -1,0 +1,45 @@
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\23.03\WFA_McAdan\WFA_McAdan\bin\Debug\WFA_McAdan.exe.config
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\23.03\WFA_McAdan\WFA_McAdan\bin\Debug\WFA_McAdan.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\23.03\WFA_McAdan\WFA_McAdan\bin\Debug\WFA_McAdan.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\23.03\WFA_McAdan\WFA_McAdan\obj\Debug\WFA_McAdan.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\23.03\WFA_McAdan\WFA_McAdan\obj\Debug\WFA_McAdan.Form1.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\23.03\WFA_McAdan\WFA_McAdan\obj\Debug\WFA_McAdan.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\23.03\WFA_McAdan\WFA_McAdan\obj\Debug\WFA_McAdan.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\23.03\WFA_McAdan\WFA_McAdan\obj\Debug\WFA_McAdan.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\23.03\WFA_McAdan\WFA_McAdan\obj\Debug\WFA_McAdan.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\23.03\WFA_McAdan\WFA_McAdan\obj\Debug\WFA_McAdan.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\fdfvdf\WFA_McAdan\bin\Debug\WFA_McAdan.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\fdfvdf\WFA_McAdan\bin\Debug\WFA_McAdan.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\fdfvdf\WFA_McAdan\bin\Debug\WFA_McAdan.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\fdfvdf\WFA_McAdan\obj\Debug\WFA_McAdan.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\fdfvdf\WFA_McAdan\obj\Debug\WFA_McAdan.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\fdfvdf\WFA_McAdan\obj\Debug\WFA_McAdan.Form1.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\fdfvdf\WFA_McAdan\obj\Debug\WFA_McAdan.Properties.Resources.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\fdfvdf\WFA_McAdan\obj\Debug\WFA_McAdan.csproj.GenerateResource.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\fdfvdf\WFA_McAdan\obj\Debug\WFA_McAdan.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\fdfvdf\WFA_McAdan\obj\Debug\WFA_McAdan.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\fdfvdf\WFA_McAdan\obj\Debug\WFA_McAdan.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\WFA_McAdam\WFA_McAdan\bin\Debug\WFA_McAdan.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\WFA_McAdam\WFA_McAdan\bin\Debug\WFA_McAdan.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\WFA_McAdam\WFA_McAdan\bin\Debug\WFA_McAdan.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.Form1.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.Properties.Resources.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.csproj.GenerateResource.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\C#\WFA_McAdam\WFA_McAdan\bin\Debug\WFA_McAdan.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\C#\WFA_McAdam\WFA_McAdan\bin\Debug\WFA_McAdan.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\C#\WFA_McAdam\WFA_McAdan\bin\Debug\WFA_McAdan.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\C#\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\C#\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\C#\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.Form1.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\C#\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.Properties.Resources.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\C#\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.csproj.GenerateResource.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\C#\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\C#\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\C#\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\C#\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.AdminForm.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\C#\WFA_McAdam\WFA_McAdan\obj\Debug\WFA_McAdan.LoginForm.resources

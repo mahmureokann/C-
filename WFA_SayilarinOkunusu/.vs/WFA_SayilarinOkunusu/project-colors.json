@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c1f5f293-7039-4b77-9be1-99ae3739d9e2": {
+      "ProjectGuid": "c1f5f293-7039-4b77-9be1-99ae3739d9e2",
+      "DisplayName": "WFA_SayilarinOkunusu",
+      "ColorIndex": 0
+    },
+    "26143542-2141-40f4-b39e-bd57287e91b9": {
+      "ProjectGuid": "26143542-2141-40f4-b39e-bd57287e91b9",
+      "DisplayName": "WFA_BoxingUnboxing",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

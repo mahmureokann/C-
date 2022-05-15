@@ -1,0 +1,33 @@
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\bin\Debug\WFA_TopSektirmeÖdevi.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\bin\Debug\WFA_TopSektirmeÖdevi.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\bin\Debug\WFA_TopSektirmeÖdevi.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.Form1.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.Properties.Resources.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.csproj.GenerateResource.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\SQL\Tarihine göre dersler\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\BilgeAdam\Ders Notları\C#\Drive\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\bin\Debug\WFA_TopSektirmeÖdevi.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\BilgeAdam\Ders Notları\C#\Drive\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\bin\Debug\WFA_TopSektirmeÖdevi.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\BilgeAdam\Ders Notları\C#\Drive\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\bin\Debug\WFA_TopSektirmeÖdevi.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\BilgeAdam\Ders Notları\C#\Drive\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\BilgeAdam\Ders Notları\C#\Drive\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\BilgeAdam\Ders Notları\C#\Drive\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.Form1.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\BilgeAdam\Ders Notları\C#\Drive\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.Properties.Resources.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\BilgeAdam\Ders Notları\C#\Drive\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.csproj.GenerateResource.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\BilgeAdam\Ders Notları\C#\Drive\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\BilgeAdam\Ders Notları\C#\Drive\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\BilgeAdam\Ders Notları\C#\Drive\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\C#\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\bin\Debug\WFA_TopSektirmeÖdevi.exe.config
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\C#\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\bin\Debug\WFA_TopSektirmeÖdevi.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\C#\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\bin\Debug\WFA_TopSektirmeÖdevi.pdb
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\C#\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\C#\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\C#\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.Form1.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\C#\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.Properties.Resources.resources
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\C#\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.csproj.GenerateResource.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\C#\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\C#\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.exe
+C:\Users\CASPER\OneDrive - medipol.edu.tr\Masaüstü\.net\C#\WFA_TopSektirmeÖdevi\WFA_TopSektirmeÖdevi\obj\Debug\WFA_TopSektirmeÖdevi.pdb

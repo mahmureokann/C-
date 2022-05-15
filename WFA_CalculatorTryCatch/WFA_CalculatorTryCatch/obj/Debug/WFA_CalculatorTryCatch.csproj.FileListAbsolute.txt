@@ -1,0 +1,10 @@
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\bin\Debug\WFA_CalculatorTryCatch.exe.config
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\bin\Debug\WFA_CalculatorTryCatch.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\bin\Debug\WFA_CalculatorTryCatch.pdb
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\obj\Debug\WFA_CalculatorTryCatch.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\obj\Debug\WFA_CalculatorTryCatch.Form1.resources
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\obj\Debug\WFA_CalculatorTryCatch.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\obj\Debug\WFA_CalculatorTryCatch.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\obj\Debug\WFA_CalculatorTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\obj\Debug\WFA_CalculatorTryCatch.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\02.03\WFA_CalculatorTryCatch\WFA_CalculatorTryCatch\obj\Debug\WFA_CalculatorTryCatch.pdb

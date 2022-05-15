@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee429f59-b3a0-4de3-96d1-7f6b72feec52": {
+      "ProjectGuid": "ee429f59-b3a0-4de3-96d1-7f6b72feec52",
+      "DisplayName": "WFA_CalculatorTryCatch",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
